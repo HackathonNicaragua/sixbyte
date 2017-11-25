@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\mcama\sixbyte\RIMB\.metadata\.plugins\org.eclipse.jdt.core
+4169905477.index
+1024294107.index
+3774235576.index
