@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\mcama\Documents\Hackathon 2017\sixbyte\RIMB\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3955522658.index
+2538976946.index
+2383937697.index
+1597613470.index
+4169905477.index
+1837871845.index
+950456870.index
