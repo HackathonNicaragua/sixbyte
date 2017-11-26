@@ -1,0 +1,4 @@
+#GlassFish 3
+#Sat Nov 25 19:41:53 CST 2017
+org.eclipse.jst.jee.server\:SICAP=C\:\\Users\\mcama\\Documents\\Hackathon 2017\\eclipse-jee-neon-3-win32-x86_64\\glassfish-4.1.1\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\SICAP
+org.eclipse.jst.jee.server\:RIMB=C\:\\Users\\mcama\\Documents\\Hackathon 2017\\eclipse-jee-neon-3-win32-x86_64\\glassfish-4.1.1\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\RIMB

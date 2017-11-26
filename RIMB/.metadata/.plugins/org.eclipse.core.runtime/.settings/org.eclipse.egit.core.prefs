@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\mcama\\git\\sixbyte\\.git;C\:\\Users\\mcama\\sixbyte\\.git;
 GitRepositoriesView.GitDirectories.relative=C\:\\Users\\mcama\\git\\sixbyte\\.git;C\:\\Users\\mcama\\sixbyte\\.git;
 eclipse.preferences.version=1
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\mcama\\git\\sixbyte\\.git;C\:\\Users\\mcama\\Documents\\Hackathon 2017\\sixbyte\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\mcama\\git\\sixbyte\\.git;C\:\\Users\\mcama\\Documents\\Hackathon 2017\\sixbyte\\.git;
+eclipse.preferences.version=1
+>>>>>>> release/modificacion

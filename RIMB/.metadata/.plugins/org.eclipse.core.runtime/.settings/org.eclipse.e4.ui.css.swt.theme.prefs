@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 darkestApplied=true
 eclipse.preferences.version=1
 enableddarkestdark=true
 themeid=com.genuitec.eclipse.themes.dark
+=======
+darkestApplied=true
+eclipse.preferences.version=1
+ectInstalledLastLaunch=false
+enableddarkestdark=true
+themeid=com.genuitec.eclipse.themes.dark
+>>>>>>> release/modificacion
